@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<go-plugin id="msbuild.task.plugin" version="1">
+    <about>
+        <name>MS Build Task Plugin</name>
+        <version>PLUGIN_VERSION_NUMBER</version>
+        <target-go-version>GO_TARGET_VERSION_NUMBER</target-go-version>
+        <description>
+           Task plugin that supports configuration and execution of MS Build tasks in Go
+        </description>
+        <vendor>
+            <name>CodeCutter UK</name>
+            <url>www.codecutter.uk</url>
+        </vendor>
+    </about>
+</go-plugin>
